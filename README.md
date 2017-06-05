@@ -59,19 +59,19 @@ Zepto.js (1.1.6) API 中文文档
 http://www.bootcss.com/p/zeptojs/  
 IBM developerWorks  
 http://www.ibm.com/developerworks/cn/  
-超级程序员  
+超级程序员
 http://www.chengxuyuan.com/  
-Web前端 腾讯AlloyTeam Blog  
+腾讯AlloyTeam Blog  
 http://www.alloyteam.com/  
 Grunt中文网
 http://www.gruntjs.net/  
 webpack module bundler  
 https://webpack.github.io/  
-Stack Overflow中文 问题列表  
+Stack Overflow  
 https://www.coder-note.com/  
 Dropzone.js  
 http://www.dropzonejs.com/  
-ITeye做最棒的软件开发交流社区  
+ITeye  
 http://www.iteye.com/  
 FEX - FEX  
 http://fex.baidu.com/  
