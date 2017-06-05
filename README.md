@@ -63,7 +63,7 @@ http://www.ibm.com/developerworks/cn/
 http://www.chengxuyuan.com/  
 腾讯AlloyTeam Blog  
 http://www.alloyteam.com/  
-Grunt中文网
+Grunt中文网  
 http://www.gruntjs.net/  
 webpack module bundler  
 https://webpack.github.io/  
