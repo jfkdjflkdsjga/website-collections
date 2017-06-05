@@ -59,7 +59,7 @@ Zepto.js (1.1.6) API 中文文档
 http://www.bootcss.com/p/zeptojs/  
 IBM developerWorks  
 http://www.ibm.com/developerworks/cn/  
-超级程序员
+超级程序员  
 http://www.chengxuyuan.com/  
 腾讯AlloyTeam Blog  
 http://www.alloyteam.com/  
