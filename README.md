@@ -76,6 +76,6 @@ http://www.iteye.com/
 FEX - FEX  
 http://fex.baidu.com/  
 Bootstrap中文网  
-http://www.bootcss.com/  
-资源集合
+http://www.bootcss.com/  
+码农周刊精选
 http://c.biancheng.net/cpp/
