@@ -18,7 +18,7 @@ http://www.apjs.net/
 layui  
 http://www.layui.com/  
 Ant Design  
-https://ant.design/index-cn  
+https://ant.design/index-cn/  
 码迷  
 http://www.mamicode.com/   
 解道jdon  
@@ -30,7 +30,7 @@ http://www.html-js.com/
 w3cplus  
 http://www.w3cplus.com/  
 看云  
-https://www.kancloud.cn/#seven  
+https://www.kancloud.cn/  
 w3ctech  
 https://www.w3ctech.com/  
 w3cmark  
